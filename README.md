@@ -53,3 +53,10 @@ Optional dark mode toggle
 User theme preference persists across sessions
 No hydration issues on refresh
 
+
+
+
+# AUTHOR :
+ROHAN KHIRSWAL
+FRONTEND INTERNSHIP ASSIGNMENT
+BUILD WITH FOCUS ON CLEAN UI, SCALABILITY, AND REAL-WORLD PRACTICES
